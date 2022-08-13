@@ -1,0 +1,1 @@
+Este programa foi desenvolvido como uma ferramenta auxiliadora para os registros do diário de campo do projeto de iniciação cientifica Ludificando o Passado - Educação Histórica e Jogos Digitais desenvolvido pela linha  LabEHGameS - Laboratório de Ensino de História, Videogames e Simulações Digitais do grupo de pesquisa Comunidades Virtuais IF-Baiano. O programa é um protótipo.
